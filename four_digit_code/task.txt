@@ -9,3 +9,4 @@ The code is {1, 2, 3, 4}
 1st call return new [] {1, 3, 4, 5} will give 1 match in next input
 2nd call return new [] {1, 2, 3, 0} will give 3 matches in next input
 3rd call return new [] {1, 2, 3, 4} will not give 4 matches in next input, because you're the champion!
+https://www.codewars.com/kata/638b042bf418c453377f28ad
