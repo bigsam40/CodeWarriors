@@ -1,6 +1,5 @@
 package CodeWarriors.EqualSidesOfAnArray;
 
-import java.util.Arrays;
 
 public class EqualSidesOfAnArray {
     // for test
