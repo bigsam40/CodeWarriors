@@ -6,7 +6,7 @@ Write a function that returns the sum of two numbers. The input numbers are stri
 Example
 add("123", "321"); -> "444"
 add("11", "99");   -> "110"
-add("90938498237058927340892374089", "91002328220491911630239667963"); -> 181040726057150938771732942052
+add("90938498237058927340892374089", "91002328220491911630239667963");
 Notes
 The input numbers are big.
 The input is a string of only digits
