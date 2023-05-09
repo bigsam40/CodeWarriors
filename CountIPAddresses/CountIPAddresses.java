@@ -5,7 +5,7 @@ public class CountIPAddresses {
     public static void main(String[] args) {
         System.out.println(ipsBetween("20.0.0.10", "20.0.1.0"));
         System.out.println(ipsBetween("10.0.0.0", "10.0.0.50"));
-        System.out.println(ipsBetween("0.0.0.0", "255.255.255.255"));
+        System.out.println(ipsBetween("192.168.1.1", "255.255.255.0"));
     }
 
     // target method
